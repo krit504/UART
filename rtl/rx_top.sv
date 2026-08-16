@@ -1,5 +1,4 @@
 module rx_top
-import typedefs::*;
 (
     input logic clk,
     input logic rst_n,
